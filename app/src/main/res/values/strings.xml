@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Korsira</string>
+
+    <string-array name="list_dropdown">
+        <item>Semua</item>
+        <item>Pengajar</item>
+    </string-array>
+    <string name="title_activity_murid">MuridActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_pengajar">PengajarActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
